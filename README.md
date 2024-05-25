@@ -38,6 +38,7 @@
 
 ## Project Structure
 
+```plaintext
 E-CommerceApp/
 ├── src/
 │   ├── Application/
