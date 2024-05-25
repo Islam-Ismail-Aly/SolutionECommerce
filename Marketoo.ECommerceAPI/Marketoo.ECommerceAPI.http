@@ -1,0 +1,10 @@
+@Marketoo.ECommerceAPI_HostAddress = http://localhost:5244
+
+GET {{Marketoo.ECommerceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Marketoo.ECommerceAPI_HostAddress}}/api/account/GetAllRoles
+
+###
